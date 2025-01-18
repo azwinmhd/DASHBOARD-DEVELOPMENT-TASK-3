@@ -27,3 +27,7 @@ Tiles: Visualizations are displayed as tiles, which can be arranged and resized 
 Interactive: Users can interact with the dashboard by clicking on tiles to drill down into underlying reports for more detailed information.
 Data Refresh: Dashboards are connected to live data sources, ensuring that the information is always up-to-date.
 Mobile Access: Dashboards can be viewed on mobile devices, providing access to critical information anytime, anywhere.
+
+Output of the task:
+
+![Image](https://github.com/user-attachments/assets/ab426565-1992-42bd-95ba-f287708a3be3)
